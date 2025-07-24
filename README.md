@@ -1,6 +1,6 @@
 
 
-👋 Hi, I'm Anish Sheganti
+# 👋 Hi , I'm Anish Sheganti
 
 ![QA Engineer – Automation & Functional Testing](https://img.shields.io/badge/QA%20Engineer–Automation%20%26%20Functional%20Testing-6f42c1?logo=testing-library&logoColor=white)
 [![@TCS](https://img.shields.io/badge/@TCS-blue)](https://www.TCS.com/)
@@ -18,7 +18,7 @@
 ## 🧠 Problem Solving – LeetCode
 
 <a href="https://leetcode.com/u/Anish_2000/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" />
 </a>
 
 ---
@@ -51,7 +51,7 @@
 ![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-sheganti&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-sheganti&layout=compact&theme=radical)
 
----
+
 
 ## 📫 Contact
 📧 anish.sheganti12345@gmail.com  
