@@ -5,7 +5,22 @@
 ![QA Engineer – Automation & Functional Testing](https://img.shields.io/badge/QA%20Engineer–Automation%20%26%20Functional%20Testing-6f42c1?logo=testing-library&logoColor=white)
 [![@TCS](https://img.shields.io/badge/@TCS-blue)](https://www.TCS.com/)
 
----
+------------
+
+
+
+🔭 **Currently Working On:** Scalable test automation frameworks for real-world web applications.  
+🌱 **Currently Learning:** Advanced API testing, Docker integration, and performance testing strategies.  
+💻 **About Me:** Passionate QA Automation Engineer with a focus on functional, UI, and API testing. I enjoy building robust test suites that simulate real user behavior and ensure software quality.  
+👯 **Looking to Collaborate On:** Open-source QA frameworks, CI/CD pipeline integrations, and scalable testing solutions.  
+🤝 **Looking for Help With:** Improving test coverage using AI-based tools, performance testing, and cross-platform automation.  
+💬 **Ask Me About:** Cypress, Playwright, Selenium, GitHub Actions, and automation architecture.  
+📫 **How to Reach Me:** anish.sheganti12345@gmail.com  
+
+⚡ **Fun Fact:** I enjoy playing cricket whenever I'm not squashing bugs on screen 🏏.
+
+
+
 
 ## 📫 Connect with Me
 
@@ -59,6 +74,3 @@
 🔗 [GitHub](https://github.com/anish-sheganti)
 
 ---
-
-
--->
